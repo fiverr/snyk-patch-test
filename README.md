@@ -12,4 +12,9 @@ https-proxy-agent/index.js is identical to source after running `snyk protect`
 - Clone this repo
 - Prepare `npm i`
 - Protect `npm run snyk-protect`
+- * Vulnerable module and patch file should be downloaded automagically
 - Test `npm t`
+
+Further details about the test prerequisite and expectations available within the test file
+
+> Please disregard boilerplate files, they're made for my own (in)sanity
