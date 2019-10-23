@@ -1,4 +1,4 @@
-# Test Snyk patch
+# Test Snyk patch [![](https://circleci.com/gh/fiverr/snyk-patch-test.svg?style=svg)](https://circleci.com/gh/fiverr/snyk-patch-test)
 
 Testing patch to https-proxy-agent via mixpanel dependency
 
