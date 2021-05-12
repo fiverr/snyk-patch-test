@@ -13,7 +13,7 @@
     "postsnyk-protect": "./fixtures.sh"
   },
   "dependencies": {
-    "mixpanel": "0.10.2",
+    "mixpanel": "0.13.0",
     "snyk": "^1.235.1"
   },
   "devDependencies": {
